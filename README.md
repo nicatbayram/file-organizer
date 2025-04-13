@@ -72,3 +72,7 @@ Contributions are welcome! If you'd like to contribute:
 - Icons provided by [Lucide Icons](https://lucide.dev/)
 
 ## ScreenShots
+
+<img width="420" alt="1" src="https://github.com/user-attachments/assets/8685a9a8-8e41-428b-9cf9-2fb35030ef6c" />
+<img width="420" alt="2" src="https://github.com/user-attachments/assets/fa9ae6bc-149c-4e3b-bbfc-764e4d5e9eff" />
+
